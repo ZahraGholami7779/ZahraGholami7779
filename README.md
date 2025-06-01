@@ -53,3 +53,8 @@ Git | VS Code | Vercel
 ### ✨ جمله الهام‌بخش
 
 > «هر خط کد یه تجربه دیجیتال جدید :)»
+> 
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/kxiro8Eecb8AAAAd/coding.gif" width="300" alt="Coding Girl GIF" />
+</p>
