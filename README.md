@@ -2,7 +2,7 @@
 <h3 align="center">برنامه‌نویس فول‌استک وب | موسس و مدرس آکادمی بایت مسترز</h3>
 
 <p align="center">
-  <img src="https://tenor.com/view/jaded-disappointed-down-let-down-computer-gif-1285925441942160315" width="300" alt="Coding Girl GIF" />
+  <img src="https://media.tenor.com/EdiGYFaZg7sAAAAj/jaded-disappointed.gif" width="300" alt="Coding Girl GIF" />
 </p>
 
 ---
