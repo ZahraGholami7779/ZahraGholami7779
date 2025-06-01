@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">سلام 👩🏻‍💻 من زهرا غلامی هستم</h1>
+<h3 align="center">برنامه‌نویس فول‌استک وب | موسس و مدرس آکادمی بایت مسترز</h3>
 
-<!--
-**ZahraGholami7779/ZahraGholami7779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Girl GIF" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## درباره من
+
+🎓 فارغ‌التحصیل مهندسی نرم‌افزار  
+💻 توسعه‌دهنده وب فول‌استک (Front-end و Back-end)  
+👩‍🏫 بیش از ۳ سال سابقه تدریس برنامه‌نویسی وب  
+🚀 علاقه‌مند به یادگیری مداوم و ساخت پروژه‌های واقعی و کاربردی  
+🏫 موسس و مدرس آکادمی بایت مسترز | [bytemasters.ir](https://bytemasters.ir)  
+💡 تمرکز بر توسعه اپلیکیشن‌های سریع، مقیاس‌پذیر و با معماری تمیز
+
+---
+
+## 👩‍🎨 تکنولوژی‌هایی که با آن‌ها کار کرده‌ام
+
+### فرانت‌اند
+HTML5 | CSS3 | TailwindCSS | Bootstrap | MUI | JavaScript | TypeScript | React.js | Next.js
+
+### بک‌اند
+Node.js | Express
+
+### پایگاه‌داده
+MongoDB
+
+### ابزارها
+Git | VS Code | Vercel
+
+---
+
+### 📊 آمار فعالیت من در گیت‌هاب
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZahraGholami7779&show_icons=true&theme=radical" alt="آمار گیت‌هاب " />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahraGholami7779&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📫 راه‌های ارتباط با من
+
+- وب‌سایت آکادمی: [bytemasters.ir](https://bytemasters.ir)  
+- ایمیل: [zahra.gholami.7916@gmail.com](mailto:zahra.gholami.7916@gmail.com)
+
+---
+
+### ✨ جمله الهام‌بخش
+
+> «هر خط کد یه تجربه دیجیتال جدید :)»
