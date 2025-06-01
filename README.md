@@ -17,20 +17,30 @@
 💡 تمرکز بر توسعه اپلیکیشن‌های سریع، مقیاس‌پذیر، با معماری تمیز
 
 ---
+### 👩‍🎨 تکنولوژی‌هایی که با آن‌ها کار کرده‌ام
 
-## 👩‍🎨 تکنولوژی‌هایی که با آن‌ها کار کرده‌ام
+#### فرانت‌اند
+<span style="background-color:#e34c26; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">HTML5</span>
+<span style="background-color:#1572B6; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">CSS3</span>
+<span style="background-color:#38b2ac; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">TailwindCSS</span>
+<span style="background-color:#563d7c; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">Bootstrap</span>
+<span style="background-color:#007acc; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">MUI</span>
+<span style="background-color:#f7df1e; padding:4px 8px; border-radius:6px; color:black; margin-right:4px;">JavaScript</span>
+<span style="background-color:#3178c6; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">TypeScript</span>
+<span style="background-color:#61dafb; padding:4px 8px; border-radius:6px; color:black; margin-right:4px;">React.js</span>
+<span style="background-color:#000000; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">Next.js</span>
 
-### فرانت‌اند
-HTML5 | CSS3 | TailwindCSS | Bootstrap | MUI | JavaScript | TypeScript | React.js | Next.js
+#### بک‌اند
+<span style="background-color:#339933; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">Node.js</span>
+<span style="background-color:#000000; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">Express</span>
 
-### بک‌اند
-Node.js | Express
+#### پایگاه‌داده
+<span style="background-color:#47a248; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">MongoDB</span>
 
-### پایگاه‌داده
-MongoDB
-
-### ابزارها
-Git | VS Code | Vercel
+#### ابزارها
+<span style="background-color:#f1502f; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">Git</span>
+<span style="background-color:#007acc; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">VS Code</span>
+<span style="background-color:#20c997; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">Vercel</span>
 
 ---
 
@@ -53,8 +63,10 @@ Git | VS Code | Vercel
 ### ✨ جمله الهام‌بخش
 
 > «هر خط کد یه تجربه دیجیتال جدید :)»
-> 
+
+
+
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/kxiro8Eecb8AAAAd/coding.gif" width="300" alt="Coding Girl GIF" />
+  <img src="https://media1.tenor.com/m/3KTfjRRnVKsAAAAC/ai-grok.gif" width="300" alt="Coding Girl GIF" />
 </p>
