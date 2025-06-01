@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6841b3ef-467e-4096-87f4-018c0c646c75)<h1 align="center">سلام 👩🏻‍💻 من زهرا غلامی هستم</h1>
+<h1 align="center">سلام 👩🏻‍💻 من زهرا غلامی هستم</h1>
 <h3 align="center">برنامه‌نویس فول‌استک وب | موسس و مدرس آکادمی بایت مسترز</h3>
 
 <p align="center">
@@ -20,27 +20,27 @@
 ### 👩‍🎨 تکنولوژی‌هایی که با آن‌ها کار کرده‌ام
 
 #### فرانت‌اند
-<span style="background-color:#e34c26; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">HTML5</span>
-<span style="background-color:#1572B6; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">CSS3</span>
-<span style="background-color:#38b2ac; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">TailwindCSS</span>
-<span style="background-color:#563d7c; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">Bootstrap</span>
-<span style="background-color:#007acc; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">MUI</span>
-<span style="background-color:#f7df1e; padding:4px 8px; border-radius:6px; color:black; margin-right:4px;">JavaScript</span>
-<span style="background-color:#3178c6; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">TypeScript</span>
-<span style="background-color:#61dafb; padding:4px 8px; border-radius:6px; color:black; margin-right:4px;">React.js</span>
-<span style="background-color:#000000; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">Next.js</span>
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 #### بک‌اند
-<span style="background-color:#339933; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">Node.js</span>
-<span style="background-color:#000000; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">Express</span>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 #### پایگاه‌داده
-<span style="background-color:#47a248; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">MongoDB</span>
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### ابزارها
-<span style="background-color:#f1502f; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">Git</span>
-<span style="background-color:#007acc; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">VS Code</span>
-<span style="background-color:#20c997; padding:4px 8px; border-radius:6px; color:white; margin-right:4px;">Vercel</span>
+![Git](https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 ---
 
@@ -68,5 +68,5 @@
 
 
 <p align="center">
-  <img src="https://media.tenor.com/yhaa2jvPoygAAAAi/ai-grok.gif" width="300" alt="Coding Girl GIF" />
+  <img src="https://media.tenor.com/yhaa2jvPoygAAAAi/ai-grok.gif" width="300" alt="Coding" />
 </p>
