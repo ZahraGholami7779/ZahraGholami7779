@@ -1,4 +1,4 @@
-<h1 align="center">سلام 👩🏻‍💻 من زهرا غلامی هستم</h1>
+![image](https://github.com/user-attachments/assets/6841b3ef-467e-4096-87f4-018c0c646c75)<h1 align="center">سلام 👩🏻‍💻 من زهرا غلامی هستم</h1>
 <h3 align="center">برنامه‌نویس فول‌استک وب | موسس و مدرس آکادمی بایت مسترز</h3>
 
 <p align="center">
@@ -68,5 +68,5 @@
 
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/3KTfjRRnVKsAAAAC/ai-grok.gif" width="300" alt="Coding Girl GIF" />
+  <img src="https://media.tenor.com/yhaa2jvPoygAAAAi/ai-grok.gif" width="300" alt="Coding Girl GIF" />
 </p>
